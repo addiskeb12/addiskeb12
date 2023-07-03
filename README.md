@@ -4,13 +4,13 @@
 
 
 <a href="www.linkedin.com/in/addis-haile-27b437135">
-<img align="left" alt="Addis Haile" width="40px" src="www.linkedin.com/in/addis-haile-27b437135" />
+<img align="left" alt="Addis Haile" width="80px" src="www.linkedin.com/in/addis-haile-27b437135" />
 </a>
 <a href="https://www.hyperiondev.com/portal/">
-<img align="left" alt="Addis Haile" width="40px" src="https://www.hyperiondev.com/portal/" />
+<img align="left" alt="Addis Haile" width="80px" src="https://www.hyperiondev.com/portal/" />
 </a>
 <a href="https://github.com/addiskeb12/addiskeb12/new/main?readme=1">
-<img align="left" alt="Addis Haile" width="40px" src="https://github.com/addiskeb12/addiskeb12/new/main?readme=1" />
+<img align="left" alt="Addis Haile" width="80px" src="https://github.com/addiskeb12/addiskeb12/new/main?readme=1" />
 </a>
 <br />
 
