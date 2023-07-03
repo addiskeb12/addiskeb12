@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Addis!](https://github.com/addiskeb12/addiskeb12/new/main?readme=1)
+### Hello World 👋 It's [Addis!]
 
 <br/>
 
@@ -33,10 +33,8 @@ Hi,I'm Addis Haile🙌, a python developer, data analyst and Cloud Enthusiast. A
 
 
 **Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
-- Girlscript Foundation
+- kaggle.com
+- Leetcode.com
 - Coding Ninja
 
 **Languages and Tools:**
